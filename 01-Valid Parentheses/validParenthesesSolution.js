@@ -1,4 +1,8 @@
 // ***************  solution1  ***************
+/**
+ * @param {string} inputString
+ * @return {boolean}
+ */
 // const validParentheses = (inputString) => {
 
 //     let stack = [];
@@ -74,6 +78,10 @@
 // }
 
 // ***************  solution2  ***************
+/**
+ * @param {string} inputString
+ * @return {boolean}
+ */
 const validParentheses = (inputString) => {
 
     let stack = [];
