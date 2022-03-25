@@ -1,4 +1,4 @@
-const validParentheses = require('./validParenthesesSolution');
+const validParentheses = require('./Solution');
 
 describe('check validParentheses', () => {
    

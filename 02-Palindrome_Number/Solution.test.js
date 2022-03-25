@@ -1,4 +1,4 @@
-const isPalindrome = require('./isPalindromeSolution');
+const isPalindrome = require('./Solution');
 
 describe('check isPalindrome', () => {
    
