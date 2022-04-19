@@ -27,10 +27,4 @@ To run comprehensive test with additional Information:
     npm run fullTest
 
 ## Contents:
-    01-Valid Parentheses
-
-    02-Palindrome Number
-
-    03-Palindrome String
-
-    04-Fibonacci Number
+    001-sum
