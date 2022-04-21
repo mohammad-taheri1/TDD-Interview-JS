@@ -14,17 +14,11 @@ In order to use this repo:
 
 ## How to use ?
 
-To run normal test: 
+    npm run test  // to run normal test
 
-    npm run test
+    npm run liveTest  // to run live test and check the result real-time
 
-To run live test and check the result real-time: 
-
-    npm run liveTest
-
-To run comprehensive test with additional Information:
-
-    npm run fullTest
+    npm run fullTest  // to run comprehensive test with additional Information
 
 ## Contents:
  * Session 001: 001-sum
