@@ -27,4 +27,4 @@ To run comprehensive test with additional Information:
     npm run fullTest
 
 ## Contents:
-    001-sum
+ * Session 001: 001-sum
