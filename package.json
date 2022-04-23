@@ -1,7 +1,7 @@
 {
   "name": "tdd-interview-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "a simple repository for gathering some state-of-the-art interview questions and tasks along with related tests",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/MamadTaheri68/TDD-Interview-JS.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mohammad Taheri(mamad.taheri.68@gmail.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MamadTaheri68/TDD-Interview-JS/issues"
