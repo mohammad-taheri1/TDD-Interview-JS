@@ -4,8 +4,8 @@
 ##  [Youtube Playlist of this repo](https://www.youtube.com/playlist?list=PLUX0GmrifrweqUwn0nHamSFEPc9L3zXF6) 
 
 ## Contents:
- * Session 001: 001-sum
- * Session 002: 002-calculator
+ * Task 001: 001-sum
+ * Task 002: 002-calculator
  
 ### How to download & config:
 
