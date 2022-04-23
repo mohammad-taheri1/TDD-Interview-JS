@@ -4,20 +4,20 @@ const myCalculator = new Calculator();
 
 
 // گروه تست های مربوط به وجود داشتن توابع
-describe("existance", () => {
-  test("Add function exists", () => {
+describe("existance of functions:", () => {
+  test("Add", () => {
     expect(typeof myCalculator.Add).toBe("function");
   });
 
-  test("Sub function exists", () => {
+  test("Sub", () => {
     expect(typeof myCalculator.Sub).toBe("function");
   });
 
-  test("Mul function exists", () => {
+  test("Mul", () => {
     expect(typeof myCalculator.Mul).toBe("function");
   });
 
-  test("Div function exists", () => {
+  test("Div", () => {
     expect(typeof myCalculator.Div).toBe("function");
   });
 });
