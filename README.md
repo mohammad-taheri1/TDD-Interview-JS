@@ -22,3 +22,4 @@ In order to use this repo:
 
 ## Contents:
  * Session 001: 001-sum
+  * Session 002: 002-calculator
