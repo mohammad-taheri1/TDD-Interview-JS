@@ -1,5 +1,7 @@
-# Interview Tasks with TDD approach using JavaScript language and Jest library 
+# Interview Tasks with TDD approach (JavaScript & Jest)
 
+
+##  [Youtube Playlist of this repo](https://www.youtube.com/playlist?list=PLUX0GmrifrweqUwn0nHamSFEPc9L3zXF6) 
 ## How to download & config:
 
 In order to use this repo:
