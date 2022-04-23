@@ -1,8 +1,13 @@
-# Interview Tasks with TDD approach (JavaScript & Jest)
+## Interview Tasks with TDD approach (JavaScript & Jest)
 
 
 ##  [Youtube Playlist of this repo](https://www.youtube.com/playlist?list=PLUX0GmrifrweqUwn0nHamSFEPc9L3zXF6) 
-## How to download & config:
+
+## Contents:
+ * Session 001: 001-sum
+ * Session 002: 002-calculator
+ 
+### How to download & config:
 
 In order to use this repo:
 
@@ -14,7 +19,7 @@ In order to use this repo:
 
      npm install
 
-## How to use ?
+### How to use ?
 
     npm run test  // to run normal test
 
@@ -22,6 +27,3 @@ In order to use this repo:
 
     npm run fullTest  // to run comprehensive test with additional Information
 
-## Contents:
- * Session 001: 001-sum
-  * Session 002: 002-calculator
