@@ -1,6 +1,10 @@
 /node_modules
-/.vscode
 /coverage
-*.pptx
 /000-archive
-/*.docx
+/.vscode
+/.idea
+*.pptx
+*.doc
+*.docx
+*.xls
+*.xlsx
