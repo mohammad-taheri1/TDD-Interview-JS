@@ -4,8 +4,13 @@
 ##  [Youtube Playlist of this repo](https://www.youtube.com/playlist?list=PLUX0GmrifrweqUwn0nHamSFEPc9L3zXF6) 
 
 ## Contents:
+`done:`
  * Task 001: 001-sum
  * Task 002: 002-calculator
+
+ `on progress:`
+ 
+ * Task 003: 003-factorial
  
 ### How to download & config:
 
