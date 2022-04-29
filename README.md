@@ -13,11 +13,15 @@
  * Task 00?: 00?-fizz-buzz-fizzBuzz
  * Task 00?: 00?-reverse-string
  * Task 00?: 00?-reverse-integer
+ * Task 00?: 00?-is-palindrome
  * Task 00?: 00?-factorial
  * Task 00?: 00?-factorial-with-exception
  * Task 00?: 00?-fibonacci
  * Task 00?: 00?-fibonacci-with-exception
+ * Task 00?: 00?-valid-paranthesis
  * Task 00?: 00?-char-counter
+ * Task 00?: 00?-max-char
+ * Task 00?: 00?-anagrams
 
  
 ### How to download & config:
