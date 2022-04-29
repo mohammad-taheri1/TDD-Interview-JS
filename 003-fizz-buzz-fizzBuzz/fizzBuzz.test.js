@@ -13,7 +13,6 @@ describe("existance of functions:", () => {
 
 // گروه تست های مربوط به عملکرد صحیح توابع
 describe("functionality", () => {
-  
   // تست ورودی صفر
   it("returns 'zero' for input of 0", () => {
     expect(fizzBuzz(0)).toBe("zero");
@@ -49,15 +48,14 @@ describe("functionality", () => {
     expect(fizzBuzz(6000)).toBe("fizzbuzz");
   });
 
-    // تست ورودی های دیگر
-    it("returns input number for other inputs", () => {
-      expect(fizzBuzz(4)).toBe(4);
-      expect(fizzBuzz(1)).toBe(1);
-      expect(fizzBuzz(17)).toBe(17);
-      expect(fizzBuzz(442)).toBe(442);
-      expect(fizzBuzz(13)).toBe(13);
-      expect(fizzBuzz(148)).toBe(148);
-      expect(fizzBuzz(202)).toBe(202);
-    });
-
+  // تست ورودی های دیگر
+  it("returns input number for other inputs", () => {
+    expect(fizzBuzz(4)).toBe(4);
+    expect(fizzBuzz(1)).toBe(1);
+    expect(fizzBuzz(17)).toBe(17);
+    expect(fizzBuzz(442)).toBe(442);
+    expect(fizzBuzz(13)).toBe(13);
+    expect(fizzBuzz(148)).toBe(148);
+    expect(fizzBuzz(202)).toBe(202);
+  });
 });
