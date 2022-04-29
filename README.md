@@ -3,8 +3,6 @@
 
 ##  [Youtube Playlist of this repo](https://www.youtube.com/playlist?list=PLUX0GmrifrweqUwn0nHamSFEPc9L3zXF6) 
 
-<div style="border: 2px solid #373838;">
-
 ## Contents:
 `done:`
  * Task 001: 001-sum
@@ -12,9 +10,15 @@
 
  `on progress:`
 
- * Task 003: 003-factorial
+ * Task 00?: 00?-fizz-buzz-fizzBuzz
+ * Task 00?: 00?-reverse-string
+ * Task 00?: 00?-reverse-integer
+ * Task 00?: 00?-factorial
+ * Task 00?: 00?-factorial-with-exception
+ * Task 00?: 00?-fibonacci
+ * Task 00?: 00?-fibonacci-with-exception
+ * Task 00?: 00?-char-counter
 
-</div>
  
 ### How to download & config:
 
