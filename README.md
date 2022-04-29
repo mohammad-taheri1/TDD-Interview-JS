@@ -3,7 +3,7 @@
 
 ##  [Youtube Playlist of this repo](https://www.youtube.com/playlist?list=PLUX0GmrifrweqUwn0nHamSFEPc9L3zXF6) 
 
-<div style="border: 2px solid #373838;">
+<div style="border: 2px solid red;">
 
 ## Contents:
 `done:`
