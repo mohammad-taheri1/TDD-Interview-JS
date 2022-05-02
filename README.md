@@ -23,6 +23,8 @@
  * Task 00?: 00?-char-counter
  * Task 00?: 00?-max-char
  * Task 00?: 00?-anagrams
+ * Task 00?: 00?-stack
+ * Task 00?: 00?-queue
 
  
 ### How to download & config:
