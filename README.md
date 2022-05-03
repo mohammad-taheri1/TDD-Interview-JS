@@ -8,11 +8,11 @@
  * Task 001: 001-sum
  * Task 002: 002-calculator
  * Task 003: 003-fizz-buzz-fizzBuzz
+ * Task 004: 004-reverse-string
 
 
  `on progress:`
 
- * Task 00?: 00?-reverse-string
  * Task 00?: 00?-reverse-integer
  * Task 00?: 00?-is-palindrome
  * Task 00?: 00?-factorial
