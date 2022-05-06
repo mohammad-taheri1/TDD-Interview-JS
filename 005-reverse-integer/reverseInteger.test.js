@@ -13,6 +13,7 @@ describe("existance of functions:", () => {
 
 // گروه تست های مربوط به عملکرد صحیح توابع
 describe("functionality", () => {
+ 
   // عملکرد ورودی صفر
   it("handles 0 as an input", () => {
     expect(reverseInteger(0)).toEqual(0);
