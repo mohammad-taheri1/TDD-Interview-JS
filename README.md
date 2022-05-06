@@ -9,11 +9,10 @@
  * Task 002: 002-calculator
  * Task 003: 003-fizz-buzz-fizzBuzz
  * Task 004: 004-reverse-string
+ * Task 005: 005-reverse-integer
 
 
  `on progress:`
-
- * Task 00?: 00?-reverse-integer
  * Task 00?: 00?-is-palindrome
  * Task 00?: 00?-factorial
  * Task 00?: 00?-factorial-with-exception
