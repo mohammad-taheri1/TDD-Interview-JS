@@ -11,10 +11,10 @@
  * Task 003: 003-fizz-buzz-fizzBuzz
  * Task 004: 004-reverse-string
  * Task 005: 005-reverse-integer
+ * Task 00?: 006-is-palindrome
 
 
  `on progress:`
- * Task 00?: 00?-is-palindrome
  * Task 00?: 00?-factorial
  * Task 00?: 00?-factorial-with-exception
  * Task 00?: 00?-fibonacci
