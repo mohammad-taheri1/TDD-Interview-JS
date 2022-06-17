@@ -2,6 +2,7 @@
 
 
 ##  [Youtube Playlist of this repo](https://www.youtube.com/playlist?list=PLUX0GmrifrweqUwn0nHamSFEPc9L3zXF6) 
+##  [Contact me via Linkedin](https://www.linkedin.com/in/mohammad-taheri1/) 
 
 ## Contents:
 `done:`
