@@ -5,16 +5,17 @@
 ##  [Contact me via Linkedin](https://www.linkedin.com/in/mohammad-taheri1/) 
 
 ## Contents:
-`done:`
+### done .....................
  * Task 001: 001-sum
  * Task 002: 002-calculator
  * Task 003: 003-fizz-buzz-fizzBuzz
  * Task 004: 004-reverse-string
  * Task 005: 005-reverse-integer
- * Task 00?: 006-is-palindrome
+ * Task 006: 006-is-palindrome
+ * Task 007: 007-is-palindrome-integer
 
 
- `on progress:`
+ ### on progress .....................
  * Task 00?: 00?-factorial
  * Task 00?: 00?-factorial-with-exception
  * Task 00?: 00?-fibonacci
