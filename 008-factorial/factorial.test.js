@@ -1,6 +1,5 @@
 const factorial = require("./factorial");
 
-// گروه تست های مربوط به وجود داشتن توابع
 // General Tests
 describe("existance of functions:", () => {
   it("defined", () => {

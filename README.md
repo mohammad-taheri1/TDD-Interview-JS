@@ -13,10 +13,10 @@
  * Task 005: 005-reverse-integer
  * Task 006: 006-is-palindrome
  * Task 007: 007-is-palindrome-integer
+ * Task 008: 008-factorial
 
 
  ### on progress .....................
- * Task 00?: 00?-factorial
  * Task 00?: 00?-factorial-with-exception
  * Task 00?: 00?-fibonacci
  * Task 00?: 00?-fibonacci-with-exception
@@ -40,8 +40,9 @@ In order to use this repo:
 
      npm install
 
-### How to use ?
+### How to run your tests ?
 
+You should use one of these commands
     npm run test  // to run normal test
 
     npm run liveTest  // to run live test and check the result real-time
