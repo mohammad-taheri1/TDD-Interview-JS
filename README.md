@@ -28,7 +28,7 @@
  * Task 00?: 00?-queue
 
  
-### How to download & config:
+### How to download & install required libraries:
 
 In order to use this repo:
 
