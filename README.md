@@ -43,6 +43,7 @@ In order to use this repo:
 ### How to run your tests ?
 
 You should use one of these commands
+
     npm run test  // to run normal test
 
     npm run liveTest  // to run live test and check the result real-time
