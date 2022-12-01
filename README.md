@@ -15,10 +15,10 @@
  * Task 007: 007-is-palindrome-integer
  * Task 008: 008-factorial
  * Task 009: 009-factorial-with-exception
+ * Task 010: 010-array-factorial-with-exception
 
 
  ### on progress .....................
- * Task 00?: 00?-array-factorial-with-exception
  * Task 00?: 00?-fibonacci
  * Task 00?: 00?-fibonacci-with-exception
  * Task 00?: 00?-valid-paranthesis
