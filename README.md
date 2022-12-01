@@ -18,6 +18,7 @@
 
 
  ### on progress .....................
+ * Task 00?: 00?-array-factorial-with-exception
  * Task 00?: 00?-fibonacci
  * Task 00?: 00?-fibonacci-with-exception
  * Task 00?: 00?-valid-paranthesis
