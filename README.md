@@ -32,7 +32,7 @@
 
  Run the following commands to start using this repository:
 
-1- Clone the repository using this command:
+1- Clone the repository using the following command:
 
 ```bash
 git clone https://github.com/MamadTaheri68/TDD-Interview-JS.git
