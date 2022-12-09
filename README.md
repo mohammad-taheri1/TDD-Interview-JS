@@ -44,9 +44,9 @@ git clone https://github.com/MamadTaheri68/TDD-Interview-JS.git
 npm install
 ```
 
-### Run your tests ?
+### Run your tests
 
-You can use one of the following commands to run your test.
+Use one of the following commands to run your test.
 
 #### **Normal test**
 
