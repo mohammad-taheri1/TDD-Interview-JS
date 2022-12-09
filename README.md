@@ -30,22 +30,38 @@
  
 ### Download and install required libraries
 
-In order to use this repository:
+ Run the following commands to start using this repository:
 
 1- Clone the repository using this command:
 
-    git clone https://github.com/MamadTaheri68/TDD-Interview-JS.git
+```bash
+git clone https://github.com/MamadTaheri68/TDD-Interview-JS.git
+```
 
 2- Change directory to `TDD-Interview-JS` and run the following command:
 
-     npm install
+```bash
+npm install
+```
 
-### How to run your tests ?
+### Run your tests ?
 
-You should use one of these commands
+You can use one of the following commands to run your test.
 
-    npm run test  // to run normal test
+### Normal test
 
-    npm run liveTest  // to run live test and check the result real-time
+```bash
+npm run test
+```
 
-    npm run fullTest  // to run comprehensive test with additional Information
+### Live test with real-time result
+
+```bash
+npm run liveTest
+```
+
+### Comprehensive test with additional information
+
+```bash
+npm run fullTest
+```
