@@ -1,43 +1,42 @@
-## Interview Tasks with TDD approach (JavaScript & Jest)
+# Interview tasks with **test driven development** approach using JavaScript and Jest
 
 
-##  [Youtube Playlist of this repo](https://www.youtube.com/playlist?list=PLUX0GmrifrweqUwn0nHamSFEPc9L3zXF6) 
-##  [Contact me via Linkedin](https://www.linkedin.com/in/mohammad-taheri1/) 
+##  [Playlist of this repository on youtube.com](https://www.youtube.com/playlist?list=PLUX0GmrifrweqUwn0nHamSFEPc9L3zXF6) 
+##  [Linkedin.com profile](https://www.linkedin.com/in/mohammad-taheri1/) 
 
-## Contents:
-### done .....................
- * Task 001: 001-sum
- * Task 002: 002-calculator
- * Task 003: 003-fizz-buzz-fizzBuzz
- * Task 004: 004-reverse-string
- * Task 005: 005-reverse-integer
- * Task 006: 006-is-palindrome
- * Task 007: 007-is-palindrome-integer
- * Task 008: 008-factorial
- * Task 009: 009-factorial-with-exception
- * Task 010: 010-array-factorial-with-exception
+## Content:
+### Done
+ - [X] 1- Summary
+ - [X] 2- Calculator
+ - [X] 3- Fizz-buzz-fizzBuzz
+ - [X] 4- Reverse string
+ - [X] 5- Reverse integer
+ - [X] 6- Is palindrome
+ - [X] 7- Integer is palindrome
+ - [X] 8- Factorial
+ - [X] 9- Factorial with exception
+ - [X] 10- Array factorial with exception
 
-
- ### on progress .....................
- * Task 00?: 00?-fibonacci
- * Task 00?: 00?-fibonacci-with-exception
- * Task 00?: 00?-valid-paranthesis
- * Task 00?: 00?-char-counter
- * Task 00?: 00?-max-char
- * Task 00?: 00?-anagrams
- * Task 00?: 00?-stack
- * Task 00?: 00?-queue
+ ### In progress
+- [ ] Fibonacci
+- [ ] Fibonacci with exception
+- [ ] Valid parenthesis
+- [ ] Character counter
+- [ ] Maximum Characters
+- [ ] Anagrams
+- [ ] Stack
+- [ ] Queue
 
  
-### How to download & install required libraries:
+### Download and install required libraries
 
-In order to use this repo:
+In order to use this repository:
 
-1- clone it using this command:
+1- Clone the repository using this command:
 
     git clone https://github.com/MamadTaheri68/TDD-Interview-JS.git
 
-2-run this command inside `TDD-Interview-JS` folder:
+2- Change directory to `TDD-Interview-JS` and run the following command:
 
      npm install
 
@@ -50,4 +49,3 @@ You should use one of these commands
     npm run liveTest  // to run live test and check the result real-time
 
     npm run fullTest  // to run comprehensive test with additional Information
-
