@@ -48,19 +48,19 @@ npm install
 
 You can use one of the following commands to run your test.
 
-### Normal test
+#### **Normal test**
 
 ```bash
 npm run test
 ```
 
-### Live test with real-time result
+#### **Live test with real-time result**
 
 ```bash
 npm run liveTest
 ```
 
-### Comprehensive test with additional information
+#### **Comprehensive test with additional information**
 
 ```bash
 npm run fullTest
