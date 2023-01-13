@@ -6,8 +6,10 @@
   "scripts": {
     "test": "jest",
     "liveTest": "jest --watchAll",
-    "fullTest": "jest --coverage"
-
+    "fullTest": "jest --coverage",
+    "test:watch": "jest --watch",
+    "test:watchAll": "jest --watchAll",
+    "test:cov": "jest --coverage"
   },
   "repository": {
     "type": "git",
