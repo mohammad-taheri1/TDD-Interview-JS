@@ -44,22 +44,14 @@ npm install
 
 ### How to Run the tests
 
-Use one of the following commands to run your test:
-
-#### **Normal test**
+Use one of the following commands to run your tests:
 
 ```bash
 npm run test
-```
-
-#### **Live test with real-time result**
-
-```bash
+npm run test:watch
+npm run test:watchAll
+npm run test:watchAll
+npm run test:cov
 npm run liveTest
-```
-
-#### **Comprehensive test with additional information**
-
-```bash
 npm run fullTest
 ```
