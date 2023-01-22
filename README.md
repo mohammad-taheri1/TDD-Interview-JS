@@ -1,4 +1,5 @@
 # Interview tasks with `test driven development` approach using JavaScript and Jest
+![GitHub last commit](https://img.shields.io/github/last-commit/MamadTaheri/TDD-Interview-JS)
 ![GitHub Repo stars](https://img.shields.io/github/stars/MamadTaheri/TDD-Interview-JS?style=social)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/MamadTaheri/TDD-Interview-JS)
 ![GitHub](https://img.shields.io/github/license/MamadTaheri/TDD-Interview-JS)
